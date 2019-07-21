@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ominous Beeping App</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="detect_shakes_on_the_background">Detect Shakes on the background</string>
+    <string name="toast_detect_shake">App will be running on the background and will bring itself to the top until you
+        kill it...
+    </string>
+    <string name="toast_shake_detection_stopped">App is no longer detecting shake movement</string>
+    <string name="toast_shake_detection_backpress_warning">If you exit the app with back button shake detection will be
+        stopped
+    </string>
+</resources>
